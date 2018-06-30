@@ -38,7 +38,6 @@ public final class Foo {
 }
 """
         assertEquals(exp, m.toJavaCode())
-
     }
 
 }
